@@ -28,4 +28,4 @@ Step2_xref_lipidbilayer_result_analysis
 Step_1_hmcmc_XWFH_run: run HMCMC and save result
 Step_2_hmcmc_XWFH_result_analysis_and_plot: load result, analyze and generate figures
 
-Use the code as your own risk.
+Use the code at your own risk.
