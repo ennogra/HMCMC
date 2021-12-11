@@ -3,7 +3,6 @@ Hamiltonian Markov Chain Monte Carlo (HMCMC)
 Matlab codes accompaning the paper: Parameter estimation for X-ray scattering analysis with Hamiltonian Markov Chain Monte Carlo
 
 Installation instructions:
-
 Install Automatic Differentiation toolbox for Matlab (ADiMat), available at https://www.sc.informatik.tu-darmstadt.de/res/sw/adimat/
 Requires the Statistics and Machine Learning Toolbox for Matlab
 Download multiESS.m, available at https://github.com/lacerbi/multiESS
