@@ -1,6 +1,6 @@
 Hamiltonian Markov Chain Monte Carlo (HMCMC)
 
-Matlab codes accompaning the paper: Parameter estimation for X-ray scattering analysis with Hamiltonian Markov Chain Monte Carlo
+Matlab codes accompaning the paper: [Parameter estimation for X-ray scattering analysis with Hamiltonian Markov Chain Monte Carlo, J. Synchrotron Radiat. 29(3) 2022](https://doi.org/10.1107/S1600577522003034)
 
 Installation instructions:
 
